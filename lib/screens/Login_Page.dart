@@ -25,7 +25,7 @@ class LoginPage extends StatelessWidget {
               height: 30,
             ),
             Container(
-              width: 422,
+              width: 350,
               decoration: BoxDecoration(
                 boxShadow: [
                   BoxShadow(
